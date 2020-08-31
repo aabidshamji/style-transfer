@@ -1,7 +1,11 @@
 ## Image Style transfer
 Add styles from a reference image to an output style image.
 
-<img src="style_image.jpg" alt="style image" width="200"/> + !<img src="base_image.jpg" alt="base image" width="200"/> = <img src="output.jpg" alt="output image" width="200"/>
+#### Sample Input
+<img src="style_image.jpg" alt="style image" width="200"/> <img src="base_image.jpg" alt="base image" width="200"/>
+
+#### Sample Output
+<img src="output.jpg" alt="output image" width="200"/>
 
 ### Requirements
 You will need the following to run the above:
