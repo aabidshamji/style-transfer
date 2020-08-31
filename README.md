@@ -1,6 +1,8 @@
 ## Image Style transfer
 Add styles from a reference image to an output style image.
 
+![Style Image](./style_image.jpg) + ![Base Image](./base_image.jpg) = ![Output Image](./ooutput_image.jpg)
+
 ### Requirements
 You will need the following to run the above:
 - TensorFlow > 2.0
