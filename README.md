@@ -1,7 +1,7 @@
 ## Image Style transfer
 Add styles from a reference image to an output style image.
 
-![Style Image](./style_image.jpg =250x) + ![Base Image](./base_image.jpg =250x) = ![Output Image](./ooutput_image.jpg =250x)
+<img src="style_image.jpg" alt="style image" width="200"/> + !<img src="base_image.jpg" alt="base image" width="200"/> = <img src="output.jpg" alt="output image" width="200"/>
 
 ### Requirements
 You will need the following to run the above:
